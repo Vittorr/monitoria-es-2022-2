@@ -21,4 +21,4 @@
 
 ## :fairy: Lista de estudantes
 
-- Substituir isso aqui por seu nome
+- Daniel Carvalho
